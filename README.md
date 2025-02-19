@@ -8,6 +8,8 @@ Use BC_server.exe for server
 setting port for use make sure port avaialble
 
 Use BC.exe As client
+
+
 ![image](https://github.com/user-attachments/assets/8789963d-b1b2-4a76-bdc5-ebd973ca6fb5)
 
 
